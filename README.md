@@ -10,3 +10,5 @@ A test of using github pages using a theme for CEQR Data Hub
 [Minimal theme for GitHub Pages](https://github.com/pages-themes/minimal)
 
 [Testing your GitHub Pages site locally - GitHub Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+
+[jekyll-build-pages Github action repo](https://github.com/actions/jekyll-build-pages)
