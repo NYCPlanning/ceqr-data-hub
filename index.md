@@ -8,12 +8,14 @@ The CEQR Data Hub is intended to house datasets related to the [environmental re
 
 Applicants prepare their environmental analyses in accordance with the methodologies set forth in the [CEQR Technical Manual](https://www.nyc.gov/site/oec/environmental-quality-review/technical-manual.page).
 
-All datasets can either be downloaded from this site or are avaiable from an external site.
+All datasets can either be downloaded here or are avaiable from an external webpage.
+
+For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version of the data. If the source of the data doesn't provide a version, the date it was accessed is used.
 
 ## Pages
 
-[CEQR Chapters](./pages/chapters.html)
+### [Analytical Chapters](./pages/chapters.html)
 
-[CEQR Chapters table](./pages/chapters-table.html)
+### [Data Hub datasets](./pages/chapters-table.html)
 
 [Examples of Markdown in Github Pages](./pages/markdown-examples.html)

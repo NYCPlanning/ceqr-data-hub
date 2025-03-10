@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# CEQR Analytical Chapters
+# Analytical Chapters
 
-These are the analytical chapters of the [CEQR Technical Manual](https://www.nyc.gov/site/oec/environmental-quality-review/technical-manual.page) used for the [environmental review process](https://www.nyc.gov/site/planning/applicants/environmental-review-process.page).
+This page lists the analytical chapters of the [CEQR Technical Manual](https://www.nyc.gov/site/oec/environmental-quality-review/technical-manual.page) used for the [environmental review process](https://www.nyc.gov/site/planning/applicants/environmental-review-process.page).
+
+For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version avaiable.
 
 ## Chapter 2: Analysis Framework
 
@@ -27,18 +29,18 @@ These are the analytical chapters of the [CEQR Technical Manual](https://www.nyc
 | WRP Coastal Zone Boundaries                | [download](todo.com)                                                                                                       | Coastal Zone Boundary Map                                  |
 | WRP Feature Classes                        | [download](todo.com)                                                                                                       | Special Area Designations                                  |
 | GIS Zoning Features                        | [download](todo.com)                                                                                                       | Special Purpose Designations                               |
-| OneNYC                                     | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| Neighborhood Plans                         | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| CB Statement of Needs                      | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| Borough and Citywide Initiatives           | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| EDC Plans                                  | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| 197-a Plans                                | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| Housing New York                           | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| Where We Live NYC 2025                     | [external](todo.com)                                                                                                       | Public policy evaluation                                   |
-| Streets                                    | [external](todo.com)                                                                                                       | All Maps                                                   |
-| Borough Boundaries                         | [external](todo.com)                                                                                                       | Location Maps                                              |
-| DPR Parks Properties                       | [external](todo.com)                                                                                                       | Location Maps                                              |
-| Subways                                    | [external](todo.com)                                                                                                       | Location Maps                                              |
+| OneNYC                                     | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| Neighborhood Plans                         | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| CB Statement of Needs                      | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| Borough and Citywide Initiatives           | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| EDC Plans                                  | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| 197-a Plans                                | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| Housing New York                           | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| Where We Live NYC 2025                     | [webpage](todo.com)                                                                                                       | Public policy evaluation                                   |
+| Streets                                    | [webpage](todo.com)                                                                                                       | All Maps                                                   |
+| Borough Boundaries                         | [webpage](todo.com)                                                                                                       | Location Maps                                              |
+| DPR Parks Properties                       | [webpage](todo.com)                                                                                                       | Location Maps                                              |
+| Subways                                    | [webpage](todo.com)                                                                                                       | Location Maps                                              |
 
 ## Chapter 5: Socioeconomic Conditions
 
