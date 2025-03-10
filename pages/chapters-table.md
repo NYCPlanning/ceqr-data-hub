@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# CEQR Analytical Chapters
+# Datasets
 
-This table shows
+This page lists all CEQR Data Hub datasets and which CEQR analytical chapters they're applicable to.
 
-- all CEQR Data Hub datasets
-- a link to download or navigate to the data
-- which CEQR chapters the datset is applicable to
+For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version of the data. If the source of the data doesn't provide a version, the date it was accessed is used.
+
+## Dataset Table
 
 | Dataset Name           | Availability                                                                                                                        | Chapter 2 | Chapter 4 | Chapter 5 |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | --------- |
@@ -16,10 +16,10 @@ This table shows
 | Population Projections | download TODO                                                                                                                       | X         |           | X         |
 | ZAP Data               | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zap/zapprojects_20250203csv.zip)                      | X         |           | X         |
 | Zoning Features        | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zoning_features/nycgiszoningfeatures_202501shp.zip)   |           | X         |           |
-| Flood Risk Mapper      | <a href="https://dcp.maps.arcgis.com/apps/webappviewer/index.html?id=1c37d271fba14163bbb520517153d6d5" target="_blank">external</a> |           | X         |           |
+| Flood Risk Mapper      | <a href="https://dcp.maps.arcgis.com/apps/webappviewer/index.html?id=1c37d271fba14163bbb520517153d6d5" target="_blank">webpage</a> |           | X         |           |
 | ...                    | ...                                                                                                                                 | ...       | ...       | ...       |
 
----
+## Widest Table
 
 This table is to see how wide one would be with a column for every chapter
 
