@@ -16,6 +16,6 @@ For all datasets available for download, the [Dataset Versions csv file](to-do.c
 
 ### [Analytical Chapters](./pages/chapters.html)
 
-### [Data Hub datasets](./pages/chapters-table.html)
+### [Datasets](./pages/chapters-table.html)
 
 [Examples of Markdown in Github Pages](./pages/markdown-examples.html)
