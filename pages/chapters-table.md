@@ -57,11 +57,3 @@ For all datasets available for download, the [Dataset Versions csv file](to-do.c
 | Census Zip Code Business Patterns                     | webpage TODO                                                                                                                      |                    |          | X                        |
 | Area Median Income                                    | webpage TODO                                                                                                                      |                    |          | X                        |
 | ...                                                   | ...                                                                                                                               | ...                | ...      | ...                      |
-
-## Widest Table
-
-This table is to see how wide one would be with a column for every chapter
-
-| Dataset Name | Availability | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 |
-| ------------ | ------------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- |
-| A            | B            | X         | X         | X         | X         | X         | X         | X         | X         | X         | X          |
