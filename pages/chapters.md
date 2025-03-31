@@ -69,3 +69,43 @@ For all datasets available for download, the [Dataset Versions csv file](to-do.c
 | LEHD                              | webpage TODO                                                                                                   |                                                                                                |
 | Census Zip Code Business Patterns | webpage TODO                                                                                                   |                                                                                                |
 | Area Median Income                | webpage TODO                                                                                                   |                                                                                                |
+
+## Community Facilities
+
+COMING SOON
+
+## Open Space
+
+COMING SOON
+
+## Shadows
+
+COMING SOON
+
+## Historic Resources
+
+COMING SOON
+
+## Natural Resoruces
+
+COMING SOON
+
+## Water and Sewer
+
+COMING SOON
+
+## Transportation
+
+COMING SOON
+
+## Noise
+
+COMING SOON
+
+## Air Quality
+
+COMING SOON
+
+## Hazmat
+
+COMING SOON
