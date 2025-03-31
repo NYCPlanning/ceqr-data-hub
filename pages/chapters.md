@@ -14,7 +14,7 @@ For all datasets available for download, the [Dataset Versions csv file](to-do.c
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | MapPLUTO Shoreline Clipped | download TODO                                                                                                  | Establishing built characterstics of parcels within the project area                           |
 | Population Projections     | download TODO                                                                                                  | Establishing existing population and household size conditions within study area census tracts |
-| ZAP Projects               | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zap/zapprojects_20250203csv.zip) | Establishing No-Action Condition projects within various study areas                           |
+| ZAP Projects               | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zap/zapprojects_20250203csv.zip) | Establishing non-residential No-Action Condition projects within various study areas           |
 
 ## Land Use
 
@@ -57,4 +57,15 @@ For all datasets available for download, the [Dataset Versions csv file](to-do.c
 
 ## Socioeconomic Conditions
 
-...
+| Dataset Name                      | Availability                                                                                                   | Use                                                                                            |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Population Projections            | download TODO                                                                                                  | Establishing existing population and household size conditions within study area census tracts |
+| ZAP Projects                      | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zap/zapprojects_20250203csv.zip) | Establishing non-residential No-Action Condition projects within various study areas           |
+| Census Tract Boundaries           | download TODO                                                                                                  |                                                                                                |
+| ACS Socioeconomic Data            | webpage TODO                                                                                                   |                                                                                                |
+| Rent by AMI                       | webpage TODO                                                                                                   |                                                                                                |
+| HUD CHAS                          | download TODO                                                                                                  |                                                                                                |
+| NYC Housing and Vacancy Survey    | download TODO                                                                                                  |                                                                                                |
+| LEHD                              | webpage TODO                                                                                                   |                                                                                                |
+| Census Zip Code Business Patterns | webpage TODO                                                                                                   |                                                                                                |
+| Area Median Income                | webpage TODO                                                                                                   |                                                                                                |
