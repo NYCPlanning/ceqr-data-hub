@@ -20,5 +20,3 @@ If you are having issues utilizing this data or would like to request that addit
 ### [Analytical Chapters](./pages/chapters.html)
 
 ### [Datasets](./pages/chapters-table.html)
-
-[Examples of Markdown in Github Pages](./pages/markdown-examples.html)
