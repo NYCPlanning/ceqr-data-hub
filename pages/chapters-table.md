@@ -6,7 +6,7 @@ layout: default
 
 This page lists all CEQR Data Hub datasets and which CEQR analytical chapters they're applicable to.
 
-For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version of the data. If the source of the data doesn't provide a version, the date it was accessed is used.
+For all datasets available for download, the [Dataset Versions csv file](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/latest/dataset_versions.csv) lists the current version of the data. If the source of the data doesn't provide a version, the date it was accessed is used.
 
 ## Dataset Table
 
