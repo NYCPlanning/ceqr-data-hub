@@ -13,7 +13,7 @@ For all datasets available for download, the [Dataset Versions csv file](https:/
 | Dataset Name               | Availability                                                                                                   | Use                                                                                            |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | MapPLUTO Shoreline Clipped | download TODO                                                                                                  | Establishing built characterstics of parcels within the project area                           |
-| Population Projections     | download TODO                                                                                                  | Establishing existing population and household size conditions within study area census tracts |
+| Population Projections     | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/dcp_population_projects.xlsx)    | Establishing existing population and household size conditions within study area census tracts |
 | ZAP Projects               | [download](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/demo_data/latest/zap/zapprojects_20250203csv.zip) | Establishing non-residential No-Action Condition projects within various study areas           |
 
 ## Land Use
