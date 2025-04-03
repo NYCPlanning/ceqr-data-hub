@@ -72,11 +72,15 @@ For all datasets available for download, the [Dataset Versions csv file](https:/
 
 ## Community Facilities
 
-COMING SOON
+| Dataset Name | Availability | Use |
+| ------------ | ------------ | --- |
+|              |              |     |
 
 ## Open Space
 
-COMING SOON
+| Dataset Name | Availability | Use |
+| ------------ | ------------ | --- |
+|              |              |     |
 
 ## Shadows
 
