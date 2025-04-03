@@ -2,3 +2,5 @@ title: CEQR Data Hub
 theme: jekyll-theme-minimal
 logo: /assets/img/dcp_logo_standard.svg
 github: [metadata]
+github:
+  is_project_page: true
