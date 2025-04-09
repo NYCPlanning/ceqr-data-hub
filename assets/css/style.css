@@ -1,3 +1,8 @@
+/*
+Modified version of the default theme
+https://github.com/pages-themes/minimal/blob/master/_sass/jekyll-theme-minimal.scss
+*/
+
 @import "fonts";
 @import "rouge-github";
 
