@@ -13,7 +13,7 @@ For more information about environmental review, please visit the following page
 
 For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version of the data. If the source of the data doesn’t provide a version, the date it was accessed is used.
 
-If you are having issues utilizing this data or would like to request that additional data be posted, please contact XXXX.
+If you are having issues utilizing this data or would like to request that additional data be posted, please contact the Capital and Planning Support team (CAPS) at <caps@planning.nyc.gov>.
 
 ## Pages
 
