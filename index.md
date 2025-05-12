@@ -11,12 +11,10 @@ For more information about environmental review, please visit the following page
 - [The Mayor's Office of Environmental Coordination CEQR Resources](https://www.nyc.gov/site/oec/environmental-quality-review/ceqr-basics.page)
 - [Department of City Plannings Environmental Review Process](https://www.nyc.gov/site/planning/applicants/environmental-review-process.page)
 
-For all datasets available for download, the [Dataset Versions csv file](to-do.com) lists the current version of the data. If the source of the data doesn’t provide a version, the date it was accessed is used.
-
-If you are having issues utilizing this data or would like to request that additional data be posted, please contact the Capital and Planning Support team (CAPS) at <caps@planning.nyc.gov>.
+For all datasets available for download, the [Dataset Versions csv file](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/latest/dataset_versions.csv) lists the current version of the data. If the source of the data doesn’t provide a version, the date it was accessed is used. Original source data and its documentation can be found using the source links next to each resource. If you are having issues utilizing this data or would like to request that additional data be posted, please contact the Capital Planning and Support team (CAPS) at <caps@planning.nyc.gov>. In the meantime, if you are having issues, we recommend that you utilize the source link to download the original data.
 
 ## Pages
 
-### [Analytical Chapters](./pages/chapters.html)
+### [Data by Analytical Chapter](./pages/chapters.html)
 
 ### [Datasets](./pages/datasets.html)

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Analytical Chapters
+# Data by Analytical Chapter
 
-This page lists data related to the various technical areas of the [CEQR Technical Manual](https://www.nyc.gov/site/oec/environmental-quality-review/technical-manual.page) by Chapter. Not all technical areas in the CEQR Technical Manual require the use of public data. Data sources with a "download" link can be downloaded directly, while those listing "webpage" will take the user to an external location that hosts data or other information.
+This page lists data related to the various technical areas of the [CEQR Technical Manual](https://www.nyc.gov/site/oec/environmental-quality-review/technical-manual.page) by Chapter. Not all technical areas in the CEQR Technical Manual require the use of public data. Data sources with a "download" link can be downloaded directly, while those listing "webpage" will take the user to an external location that hosts data or other information. All original source data and its documentation can be found using the source links next to each resource. If you are having issues utilizing this data or would like to request that additional data be posted, please contact the Capital Planning and Support team (CAPS) at <caps@planning.nyc.gov>. In the meantime, if you are having issues, we recommend that you utilize the source link to download the original data.
 
 For all datasets available for download, the [Dataset Versions csv file](https://nyc3.digitaloceanspaces.com/ceqr-data-hub/latest/dataset_versions.csv) lists the current version avaiable.
 
