@@ -111,6 +111,17 @@ table {
   overflow-x: auto;
 }
 
+#dataset-table+table {
+  max-height: 500px;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 1;
+}
+
 th,
 td {
   text-align: left;
