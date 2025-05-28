@@ -1,6 +1,6 @@
-# test-ceqr-data-github-pages-theme
+# ceqr-data-hub
 
-A test of using github pages using a theme for CEQR Data Hub
+The CEQR Data Hub website is powered by this repository, which uses GitHub Pages and a custom theme. It is maintained by the NYC Department of City Planning’s Data Engineering team.
 
 ## Development
 
