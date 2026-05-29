@@ -8,6 +8,29 @@ These instructions are for macOS or Linux.
 
 The latest 3.3 version of ruby is used to align with the github action used to build the site.
 
+### Updating content
+
+The markdown tables in [`pages/datasets.md`](pages/datasets.md) and [`pages/chapters.md`](pages/chapters.md) are **generated** — do not edit them directly. Changes will be overwritten the next time the build runs.
+
+The source of truth lives in the [`data-engineering`](https://github.com/NYCPlanning/data-engineering) repo under `products/ceqr/seeds/`:
+
+- **`datasets.csv`** — one row per dataset: name, download key, file type, source URL
+- **`chapter_datasets.csv`** — which datasets appear in which chapters and their use descriptions
+
+To update content:
+
+1. Edit the relevant seed CSV(s) in `data-engineering`
+2. Run the CEQR Build GitHub Action in the `data-engineering` repo
+3. Download `datasets_table.md` and `chapters_tables.md` from `edm-publishing/db-ceqr/build/<branch-name>/` in Digital Ocean
+4. Copy them to `pages/datasets.md` and `pages/chapters.md` in this repo
+
+### Updating data
+
+Dataset files served by the download links are stored in the `ceqr-data-hub` Digital Ocean Space under `latest/`. To update them:
+
+1. Run the CEQR Build GitHub Action in the `data-engineering` repo
+2. Copy the dataset files from `edm-publishing/db-ceqr/build/<branch-name>/` to `ceqr-data-hub/latest/`
+
 ### Setup
 
 1. Install rbenv with Homebrew using `brew install rbenv`
