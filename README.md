@@ -29,7 +29,8 @@ To update content:
 Dataset files served by the download links are stored in the `ceqr-data-hub` Digital Ocean Space under `latest/`. To update them:
 
 1. Run the CEQR Build GitHub Action in the `data-engineering` repo
-2. Copy the dataset files from `edm-publishing/db-ceqr/build/<branch-name>/` to `ceqr-data-hub/latest/`
+2. Promote the build to draft with the "🛫 Promote a Dataset to Draft" action (product `db-ceqr`)
+3. Run the "📬 Distribute CEQR Data Hub" action with the draft's version and revision number. It copies the draft to `ceqr-data-hub/<version>/` and then to `latest/`.
 
 ### Setup
 
